@@ -1,12 +1,11 @@
 # automatically handle text file line endings
 * text=auto
-
 # html files use lf line endings
 *.html text eol=lf
-
 # markdown files use lf line endings
 *.md text eol=lf
-
 # image files are binary
 *.png binary
 *.jpg binary
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
