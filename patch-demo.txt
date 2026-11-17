@@ -1,2 +1,3 @@
-This is my first patch demonstration.
-This is my second patch demonstration.
+This is my first Git patch demonstration.
+
+I am learning how to generate and share patches using Git.
