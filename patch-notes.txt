@@ -1,0 +1,7 @@
+Git patch workflow
+
+1. Create changes.
+2. Commit changes.
+3. Generate patch files.
+4. Share patches with other developers.
+5. Apply patches using Git.
