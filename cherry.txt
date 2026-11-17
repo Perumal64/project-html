@@ -1,0 +1,2 @@
+This file is created to practise Git cherry-pick.
+Cherry-pick copies an individual commit between branches.
