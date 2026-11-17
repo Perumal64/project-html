@@ -1,0 +1,2 @@
+Learning Git history modification.
+Practising commit amend command.
