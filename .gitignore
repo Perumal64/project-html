@@ -1,0 +1,14 @@
+# ignore log files
+*.log
+
+# ignore temporary files
+*.tmp
+
+# ignore environment files
+.env
+
+# ignore temporary folders
+temp/
+
+# ignore personal editor settings
+.vscode/
