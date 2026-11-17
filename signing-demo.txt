@@ -1,0 +1,2 @@
+This file demonstrates Git commit signing.
+Signed commits help verify the identity of the contributor.
